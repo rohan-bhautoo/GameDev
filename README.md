@@ -1,13 +1,10 @@
 ![Banner](https://github.com/rohan-bhautoo/rohan-bhautoo/assets/47154593/3eba57a0-cca0-4b2f-8112-a8ce950cee3a)
 
-<table style="width: 100%;">
-  <thead>
-    <tr>
-      <td rowspan="2"> <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/ce240641-40a0-4a95-8042-b516905b3875" width="100%" alt="UnrealEngine_1"/> </td>
-      <td><img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/85f17be2-0b21-4813-a6bd-6405324ce6e3" width="100%" alt="UnrealEngine_2"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/0986d7ef-e63e-40b8-8a19-00cab6b371fe" width="100%" alt="UnrealEngine_3"/></td>
-    </tr>
-  </thead>
-</table>
+[![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199009185166/)
+[![PlayStation Network](https://img.shields.io/badge/PlayStation_Network-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://psnprofiles.com/x_XRohanX_x)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/763085460188037180)
+
+<div>
+  <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+</div>
