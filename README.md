@@ -26,7 +26,7 @@
       I'm experienced in creating realistic environments, interactive experiences and using Blueprints for visual scripting to enhance the game mechanics. I'm also trying out character modeling.
     </p>
   </div>
-  <br><br><br><br>
+  <br clear="right"/>
 </div>
 
 <div>
