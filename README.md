@@ -11,6 +11,11 @@
 </div>
 
 <div>
+  <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
+  <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/f7e96b5c-b5d5-4980-b78b-a247fddb3066" width="100%">
+</div>
+
+<div>
   <h2 align="center">𝓢𝓴𝓲𝓵𝓵𝓼</h2>
   <p>
   <div align="center">
