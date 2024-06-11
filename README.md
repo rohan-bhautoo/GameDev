@@ -7,9 +7,15 @@
 
 <div>
   <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
+  
 </div>
 
-![Favorite Games](https://github.com/rohan-bhautoo/GameDev/assets/47154593/90dbcf95-5b22-440f-934e-c22313ab6ad8)
+<div>
+  <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
+  <div align="center">
+    <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/846cf9c3-a09f-4556-bd1f-67830332f436" width="100%">
+  </div>
+</div>
 
 <div>
   <h2 align="center">𝓛𝓲𝓼𝓽 𝓸𝓯 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓖𝓪𝓶𝓮𝓼</h2>
